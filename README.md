@@ -1,5 +1,5 @@
 # hello-world
-Repository to get to know GitHub
+This is a repository to get to know GitHub
 
 This is a new repository created by Nik Dennler
 
